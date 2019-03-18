@@ -1,0 +1,7 @@
+﻿  cdcpp.cpp
+c:\users\user\source\repos\project11\project11\cdcpp.cpp(4): warning C4005: '_CRT_SECURE_NO_WARNINGS': 매크로 재정의
+  c:\users\user\source\repos\project11\project11\cdcpp.cpp: note: '_CRT_SECURE_NO_WARNINGS'의 이전 정의를 참조하십시오.
+  소스.cpp
+c:\users\user\source\repos\project11\project11\소스.cpp(11): error C2440: '초기화 중': 'double'에서 'Classic'(으)로 변환할 수 없습니다.
+  c:\users\user\source\repos\project11\project11\소스.cpp(11): note: 소스 형식을 가져올 수 있는 생성자가 없거나 생성자 오버로드 확인이 모호합니다.
+  코드를 생성하고 있습니다...
